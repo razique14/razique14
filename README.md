@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  to learn different programming languages<br>🤝 my Email id :khanrazique73@gamil.com<br>🌱 I’m currently learning 'Data science'<br>💬 I'm student of @codeforindiafoundation<br> 🙌
+🔭 I’m currently working on  to learn different programming languages<br>🤝 my Email id :khanrazique73@gmail.com<br>🌱 I’m currently learning 'Data science'<br>💬 I'm student of @codeforindiafoundation<br> 🙌
 
 
 ## 🌐 Socials:
